@@ -1,6 +1,6 @@
-# Language Modeling with Reinforcement Learning with Weak Supervision
+# Language Modeling with Reinforcement Learning from Human Feedback with Weak Supervision
 
-This repository contains the code and data for the **Bachelor Thesis** titled **"Language Modeling with Reinforcement Learning with Weak Supervision"**, written at TU Berlin and Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI).
+This repository contains the code and data for the **Bachelor Thesis** titled **"Language Modeling with Reinforcement Learning from Human Feedback with Weak Supervision"**, written at TU Berlin and Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI).
 
 ## Abstract
 
